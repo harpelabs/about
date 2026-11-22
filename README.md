@@ -43,8 +43,7 @@ The harpe is the hooked sword Perseus carried against Medusa, a monster you can'
 Our researchers build the tools they wish they had during engagements. Some of them have been noticed.
 
 ### Tools in Pashov's AI Web3 Security Tools Hub
-
-Two of our tools are listed in [Pashov's AI Web3 Security Tools Hub](https://github.com/pashov/ai-web3-security).
+Two of our tools, both built by [@0xCyrildev](https://github.com/0xCyrildev), are listed in [Pashov's AI Web3 Security Tools Hub](https://github.com/pashov/ai-web3-security).
 
 - **[Chase](https://github.com/0xCyrildev/Chase)** (Sui Move): open-source dynamic analysis of executed Sui Move transactions. Ships as a CLI, a library and an MCP server, and runs 8 invariant checks.
 - **[Dot](https://github.com/0xCyrildev/dot)** (Solana): agentic blast-radius analysis for Solana program upgrades, built from CPI traces rather than source code.

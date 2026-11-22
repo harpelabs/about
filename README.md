@@ -17,8 +17,8 @@
 
 **We find the assumption your system is quietly relying on, then break it before someone else does.**
 
-Every system is a pile of assumptions. "Only the admin calls this." "The oracle won't lag." "Nobody would pass that as input." "The agent will only use the tool the way we pictured." Most real exploits aren't clever. They're one of these, sitting unchallenged because the people who built the thing were too close to question it.
-
+Somewhere in your codebase, someone wrote "this can never happen" and moved on. We go looking for that line. 
+That's the hook.
 We're a crew of independent security researchers, and finding that assumption is the whole job.
 
 We are not a compliance shop. You won't get a checklist and a printout of scanner output from us. We assume your system was built by capable people, which means the way in is somewhere nobody thought to look. That's where we spend our time.
